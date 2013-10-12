@@ -18,7 +18,6 @@
   <url>git@github.com:ZsZs/ProcessPuzzleBuildTest.git</url>
   <connection>scm:git:git@github.com:ZsZs/ProcessPuzzleBuildTest.git</connection>
   <developerConnection>scm:git:git@github.com:ZsZs/ProcessPuzzleBuildTest.git</developerConnection>
-  <tag>HEAD</tag>
  </scm>
  <developers>
   <developer>
