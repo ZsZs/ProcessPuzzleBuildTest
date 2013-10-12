@@ -3,7 +3,7 @@
 
  <groupId>com.processpuzzle</groupId>
  <artifactId>maven-test</artifactId>
- <version>0.0.1-SNAPSHOT</version>
+ <version>0.0.1</version>
  <name>maven-test</name>
  <description>Test maven releasing</description>
  <url>http://processpuzzle.com</url>
@@ -18,7 +18,7 @@
   <url>git@github.com:ZsZs/ProcessPuzzleBuildTest.git</url>
   <connection>scm:git:git@github.com:ZsZs/ProcessPuzzleBuildTest.git</connection>
   <developerConnection>scm:git:git@github.com:ZsZs/ProcessPuzzleBuildTest.git</developerConnection>
-  <tag>HEAD</tag>
+  <tag>v0.0.1</tag>
  </scm>
  <developers>
   <developer>
